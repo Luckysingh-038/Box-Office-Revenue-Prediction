@@ -1,7 +1,7 @@
 # 🎬 Box Office Revenue Prediction Using Regression
 
 ## 📅 Project Duration
-February 2025 – July 2025
+February 2025 – March 2025
 
 ## 📌 Overview
 
